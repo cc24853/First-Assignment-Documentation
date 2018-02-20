@@ -68,13 +68,13 @@ Step 8c: your mission is to track down password = "xxxxxxxxxxxxx"; and relocate 
 
 PASSWORD";
 
-         (use will use the warrgarble form eariler here)
+         (you will use the warrgarble form eariler here)
          
 Stap 9: escape this hell with CTRL +X, then press Y and then ENTER.
 
-step 10: now that you are free, you can modify sudo nano /etc/ircd-hybrid/ircd.motd (the message of the day) to your hearts desire
+step 10: now that you are free, you can modify sudo nano /etc/ircd-hybrid/ircd.motd (the message of the day) to your hearts desire,
 
-        , but you do not need to.
+         but you do not need to.
         
 Step 11: restart everything with sudo /etc/init.d/ircd-hybrid restart
 
